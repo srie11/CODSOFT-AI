@@ -1,0 +1,6 @@
+Task 1 - A simple yet effective rule-based response chatbot! This Python code implements a chatbot with diversified responses, offering engaging interactions with users. Featuring a range of responses from warm greetings, and time/day information to expressing gratitude, offering assistance, and acknowledging statements, the chatbot ensures an effective conversational flow. 
+
+Task 2 -Implementation of the Tic-Tac-Toe game with an AI opponent using Minimax with alpha-beta pruning! This project delves into game theory and fundamental search algorithms, providing valuable insights into AI development. 
+
+Task 3 - I've built a simple recommendation system using collaborative filtering to provide personalized movie suggestions based on user ratings. I've created sample data for 10 users and utilized techniques like cosine similarity for analysis.
+
